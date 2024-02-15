@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXUkAJOQS/rE/9x07NjT9uAiCcaJzNzX/fbKjLxbtaA2nLkTklqGHe4R+stc/03RodVOlgT80IkvLPoA1nxi3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\umfg-programacao-iv-08-02-2024-main\\umfg-programacao-iv-08-02-2024-main\\Umfg.ProgramacaoIV.Aula08022024\\Umfg.ProgramacaoIV.Aula08022024\\Umfg.ProgramacaoIV.Aula08022024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
